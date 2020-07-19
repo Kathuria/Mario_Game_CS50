@@ -10,6 +10,8 @@ Installation and Usage
 * Download LÖVE2D (comes with Lua) from https://love2d.org/#download
 * Run examples using instructions at https://love2d.org/wiki/Getting_Started
 
+<img src="/Mario_CS50.png" height="50%" width="50%" align="center" alt="mario_cs50 image"/>
+
 About Game Structure in Repo
 ----------------------------
 * mario-0: It basic setup of game structure and how to get started with game development in mario world.
