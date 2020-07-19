@@ -56,7 +56,7 @@ function love.draw()
     push:apply('start')
 
     -- clear screen using Mario background blue
-    love.graphics.clear(108, 140, 255, 255)
+    love.graphics.clear(108/255, 140/255, 255/255, 255/255)
 
     -- renders our map object onto the screen
     map:render()

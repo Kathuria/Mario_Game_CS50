@@ -10,11 +10,21 @@ Installation and Usage
 * Download LÖVE2D (comes with Lua) from https://love2d.org/#download
 * Run examples using instructions at https://love2d.org/wiki/Getting_Started
 
-Exercises
----------
+About Game Structure in Repo
+----------------------------
+* mario-0: It basic setup of game structure and how to get started with game development in mario world.
+* mario-1: Creating Tile from spritesheets as Level 1 of mario.
+* mario-2: Auto Scrolling map with tile for game progress.
+* mario-3: Controls screen tile with keybooard arrow keys.
+* mario-4: Procedural generation of game.
+* mario-5: Adding avatar in game.
+* mario-6: Moving character in game with camera movements.
+* mario-7: Adding Animations in character.
+* mario-8: Adding Jumping feature with gravity & velocity concepts of physics.
+* mario-9: Adding feature to hit blocks aka collision detection.
+* mario-10: Adding Collisions, like tiles, blocks, pillars, etc.
+* mario-11: Musical Update for the game.
 
-Each mario-x example contains an accompanying exercise folder with some TODOS;
-try and solve if you can!
 
 Google Slides
 ------

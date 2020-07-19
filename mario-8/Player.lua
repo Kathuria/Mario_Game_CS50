@@ -7,8 +7,8 @@ require 'Animation'
 Player = {}
 Player.__index = Player
 
-local WALKING_SPEED = 140
-local JUMP_VELOCITY = 400
+local WALKING_SPEED = 80
+local JUMP_VELOCITY = 200
 
 function Player:create(map)
     local this = {
